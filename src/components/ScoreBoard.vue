@@ -43,7 +43,12 @@ section.score {
     border: none;
     padding: 8px 16px;
     cursor: pointer;
-    position: absolute;
-    right: 0;
+    margin-top: 24px;
+}
+@media (min-width: 768px) {
+    .btn-reset{
+        position: absolute;
+        margin: 0;
+    }
 }
 </style>
