@@ -49,6 +49,7 @@ section.score {
     .btn-reset{
         position: absolute;
         margin: 0;
+        right: 0;
     }
 }
 </style>
